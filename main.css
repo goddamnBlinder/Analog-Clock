@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, Helvetica, sans-serif, MV Boli;
+}
+
+.clock-dial{
+    width: 500px;
+    height:500px;
+    border: 20px solid #14fe;
+    border-radius: 50%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.point{
+width:20px;
+height:20px;
+background-color: #283149;
+border-radius: 50%;
+position: relative;
+top: 240px;
+left: 240px;
+}
+
+.hour{
+font-size: 30px;
+font-weight: bold;
+color: #283149;
+position: absolute;
+}
+
+.hour-1{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-2{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-3{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-4{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-5{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-6{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-7{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-8{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-9{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-10{
+top: 40px;
+right: 130px;
+}
+
+
+.hour-11{
+top: 40px;
+right: 130px;
+}
