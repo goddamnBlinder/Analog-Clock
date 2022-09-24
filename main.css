@@ -176,8 +176,8 @@ left: 130px;
     height: 300px;
     position: absolute;
     /* background-color: #845ec2; */
-    top: 4.5rem;
-    left: 11.5rem;
+    top: 7rem;
+    right: 38rem;
     border-radius: 50%;
 }
 
@@ -188,10 +188,10 @@ left: 130px;
 .hour-hand .hand{
     width: 4px;
     height: 150px;
-    background-color: #845ec2;;
+    background-color: #d65db1;
     position: absolute;
-    left: 194px;
-    top: 2rem;
+    left: 140px;
+    top: -0.5rem;
   }
 
   .hour-hand .arrow{
@@ -200,8 +200,8 @@ left: 130px;
     color:  #283149;
     transform: rotate(180deg);
     position: absolute;
-    top: 1.5rem;
-    right: 6rem;
+    top: -1.5rem;
+    right: 9.5rem;
 
 }
 
@@ -210,8 +210,8 @@ left: 130px;
     height: 350px;
     position: absolute;
     /* background-color: #845ec2; */
-    top: 75px;
-    left: 75px;
+    top: 85px;
+    left: 36.9rem;
     border-radius: 50%;
 }
 
@@ -224,6 +224,6 @@ left: 130px;
     height: 175px;
     background-color: crimson;
     position: absolute;
-    left: 19rem;
+    left: 11.1rem;
     /* top: 2rem; */
   }
